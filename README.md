@@ -1,0 +1,2 @@
+# EnterpriseCollaborativeOfficeSystem
+ 基于ssh的企业协同办公系统：一个融合薪资、考勤和公司公告等为一体的协调办公系统。
